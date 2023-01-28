@@ -1,26 +1,29 @@
 # My_Website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my personal website showcasing my skills as a developer. The application will be built on Ruby on Rails using other gems as well.
 
-This is my personal website showcasing my skill as a Developer. The application will be built on Ruby on Rails using other gems as well.
 
-Things you may want to cover:
+#### Ruby version: 3.2.0 & Rails: 7.0.4
 
-* Ruby version
+### System dependencies
 
-* System dependencies
+* OpenSSL@1.1
+* Pkg-Config
+* PostgreSQL@14
 
-* Configuration
+### Configuration
 
-* Database creation
+### Database creation
 
-* Database initialization
+* Using PostgreSQL docker image
+* 
 
-* How to run the test suite
+### Database initialization
 
-* Services (job queues, cache servers, search engines, etc.)
+### How to run the test suite
 
-* Deployment instructions
+### Services (job queues, cache servers, search engines, etc.)
+
+### Deployment instructions
 
 * ...
