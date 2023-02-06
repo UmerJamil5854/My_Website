@@ -12,7 +12,12 @@ gem "sprockets-rails"
 # Postgres for the database
 gem 'pg'
 
-gem 'bootstrap-sass'
+gem 'bootstrap', '~> 5.2.2'
+
+gem 'jquery-rails'
+
+# gem 'jsbundling-rails'  # needed for bootstrap javascript
+# gem 'cssbundling-rails' # Install bootstrap 5
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
